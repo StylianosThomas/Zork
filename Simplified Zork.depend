@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1497036637 source:c:\users\amshaedar\documents\codeblocks\simplified zork\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+
